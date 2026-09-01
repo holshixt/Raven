@@ -12,6 +12,7 @@ Make sure Python 3 is installed on your system.
 git clone https://github.com/holy/Raven.git
 
 cd Raven
+
 3. Install dependencies
 pip install -r requirements.txt
 
@@ -25,7 +26,7 @@ Raven/
 └── CHANGELOG.md
 5. Run Raven
 python raven.py
-  Usage
+  
 
 After starting Raven, the main menu will appear:
 
