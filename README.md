@@ -9,7 +9,7 @@ Raven is an ongoing project created to improve my Python programming skills and 
 Make sure Python 3 is installed on your system.
 
 2. Clone the repository
-git clone https://github.com/holy/Raven.git
+git clone https://github.com/holshixt/Raven
 
 cd Raven
 
