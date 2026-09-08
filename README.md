@@ -36,3 +36,4 @@ After starting Raven, the main menu will appear:
 [4] IP information
 [0] Exit
 
+Technical support: raventechsuport@gmail.com
